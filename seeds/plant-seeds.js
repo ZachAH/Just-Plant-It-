@@ -700,7 +700,7 @@ const plantdata = [
         image_url: 'https://www.logees.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/r/1/r1934-4-large.jpg',
         description: 'Moses in the Cradle plants (Tradescantia spathacea) have many alternative names such as Moses-in-a-Boat, Boat Lily, Cradle Lily, Moses-in-the-Bullrushes, and Oyster plant. Whatever you want to call them, these colorful plants, native to Mexico, the West Indies, and Central America, are easy to care for and have very attractive leaves. Moses In the Cradle plants produce rosettes of long, waxy, sword-shaped leaves that are glossy green or green, purple, and white striped on top and a rich purple on the underside. The very small white flowers, tucked away in a purple boat shaped bract, give Moses-in-the-Cradle Houseplants their many common names.',
         care_level: 'easy',
-        toxicity: 1,
+        toxicity: 2,
         // light_id: 4,
         water: 'weekly',
         filters: 'Toxic, Direct Sunlight, Beginners, Light Water, Humid Environment'
