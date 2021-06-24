@@ -58,6 +58,7 @@
     font-size: 1.5rem;
   }
   
+  /* change on hover opacity */
   input {
       width: 100%;
       border: 1px solid #ccc;
